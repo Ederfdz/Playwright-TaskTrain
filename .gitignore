@@ -1,0 +1,9 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+"TaskTrain Feature Stories/*"
+/general-auth.json
+/manual-auth.json
+/random-generated-auth.json
