@@ -9,7 +9,7 @@ git clone https://github.com/Ederfdz/Playwright-TaskTrain
 
 #### Cd into the project directory:
 ```
-cd ex5
+cd Playwright\ -\ TaskTrain/
 ```
 
 #### Download project dependencies:
