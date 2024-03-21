@@ -1,4 +1,4 @@
-## TaskTrain Automation Project | [TripleTen QA Externship EX5](https://tripleten.com/qa-engineer/)
+## TaskTrain Automation Project | [TripleTen QA Externship EX5]
 
 ## Getting Started
 
