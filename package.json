@@ -1,0 +1,22 @@
+{
+  "name": "playwright-tasktrain",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.6.1"
+  },
+  "scripts": {
+    "tests:chrome": "playwright test --config=playwright.config.ts --project=Chromium",
+    "tests:firefox": "playwright test --config=playwright.config.ts --project=Firefox",
+    "tests:safari": "playwright test --config=playwright.config.ts --project=Webkit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@types/node": "^20.11.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4"
+  }
+}
